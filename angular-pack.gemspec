@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["imam.aiub@gmail.com"]
   spec.summary       = 'Add AngulaJS library to your project.'
   spec.description   = 'AngularJS and AngularUI functionality.'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/codedefine/angular-pack"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
