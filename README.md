@@ -36,6 +36,7 @@ Following libraries are available to use:
 * Angular Scenario
 * Angular Touch
 * es5-shim (EcmaScript 5 Support for IE <= 8)
+* Device
 * NG Grid
 * UI Router
 * UI Bootstrap
